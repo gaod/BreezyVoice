@@ -26,7 +26,7 @@ torchaudio==2.3.1
 wget==3.2
 fastapi==0.115.8
 fastapi-cli==0.0.4
-WeTextProcessing==1.0.3
+WeTextProcessing==1.0.4.1
 opencc-python-reimplemented
 g2pw
 pyarrow
