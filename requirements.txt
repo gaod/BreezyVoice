@@ -22,7 +22,7 @@ pydantic-settings==2.7.0
 rich==13.7.1
 soundfile==0.12.1
 tensorboard==2.14.0
-torch==2.7.0+cu118
+torch==2.7.1+cu118
 torchaudio==2.3.1
 wget==3.2
 fastapi==0.115.8
