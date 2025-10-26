@@ -16,7 +16,7 @@ networkx==3.1
 omegaconf==2.3.0
 onnxruntime-gpu==1.20.1; sys_platform == 'linux'
 openai-whisper==20231117
-protobuf==4.25
+protobuf==4.25.8
 pydantic==2.7.0
 pydantic-settings==2.7.0
 rich==13.7.1
